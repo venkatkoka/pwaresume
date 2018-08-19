@@ -1,0 +1,62 @@
+{
+	"details":{
+	"image":"kav.png",
+	"name":"aswini",
+	"phnno":"+91-9676002070",
+	"email":"aswinigamidi99@gmail.com",
+	"address":"vignan's nirula college,guntur."
+		},
+		"career":{
+			"info":"to do job in a mnc companies."
+		},
+	"education":[
+		{
+			"qualification":"b.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"80%"
+		},
+		{
+			"qualification":"inter",
+			"institute":"sri chaithanya",
+			"year":"2016",
+			"percentage":"94%"
+		},
+		{
+			"qualification":"ssc",
+			"institute":"sai aditya schol",
+			"year":"2014",
+			"percentage":"95%"
+		}
+	],
+
+	
+		"skills":[{
+			"title":"programmimg languages",
+			"info":["c","c++","java","python","r"]
+		},
+		{
+			"title":"databases",
+			"info":["oracle","sql","mysql"]		
+		},
+		{
+			"title":"operating systems",
+			"info":["unix","windows","mac"]
+		}
+
+	],
+		"achievements":[{
+			"title":"i got second prize in essay writing"
+		},
+		{
+			"title":"first prize in ppt"
+		},
+		{
+			"title":"first prize in participated"
+		},
+		{
+			"title":"participated in national sports"
+
+		}
+	]
+}
